@@ -2,4 +2,4 @@ requests
 bs4
 colorama
 IMDbPY
-cmd
+argparse
